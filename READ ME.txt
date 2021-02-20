@@ -1,0 +1,8 @@
+INSTRUCTIONS
+1. Create a database called tunda-online-website in xampp or wamp
+2. Import the sql file named tunda-online-website.sql
+3.create a user under the database,username:benedict,password:1994 and assign him all admin previllages.
+4.copy the extracted wordpress file package and paste it under
+for xampp  c:xammpp/htdocs
+    wamp   c:wamp/www
+5.Run the site through url:http://localhost/wordpress/wp-admin/       

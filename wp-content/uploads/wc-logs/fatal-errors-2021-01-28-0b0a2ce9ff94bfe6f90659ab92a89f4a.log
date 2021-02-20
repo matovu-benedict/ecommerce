@@ -1,0 +1,4 @@
+2021-01-28T01:46:49+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in C:\xampp\htdocs\wordpress\wp-content\plugins\wpforms-lite\includes\admin\class-tools.php on line 10
+
+2021-01-28T18:17:45+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in C:\xampp\htdocs\wordpress\wp-content\plugins\elementor\core\admin\feedback.php on line 9
+

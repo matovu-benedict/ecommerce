@@ -1,0 +1,16 @@
+2021-02-07T02:03:34+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in C:\xampp\htdocs\wordpress\wp-content\plugins\astra-sites\admin\bsf-analytics\class-bsf-analytics-loader.php on line 95
+
+2021-02-07T02:04:10+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in C:\xampp\htdocs\wordpress\wp-includes\Requests\Transport\cURL.php on line 437
+
+2021-02-07T03:09:18+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in C:\xampp\htdocs\wordpress\wp-admin\includes\class-wp-filesystem-direct.php on line 82
+
+2021-02-07T11:34:46+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in C:\xampp\htdocs\wordpress\wp-content\plugins\wpforms-lite\vendor\autoload.php on line 5
+
+2021-02-07T11:34:55+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in C:\xampp\htdocs\wordpress\wp-content\plugins\woocommerce\packages\action-scheduler\deprecated\ActionScheduler_Store_Deprecated.php on line 7
+
+2021-02-07T11:35:28+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in C:\xampp\htdocs\wordpress\wp-content\plugins\elementor\core\common\app.php on line 9
+
+2021-02-07T15:09:20+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in C:\xampp\htdocs\wordpress\wp-content\plugins\astra-sites\inc\importers\batch-processing\class-astra-sites-batch-processing-gutenberg.php on line 9
+
+2021-02-07T15:29:48+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in C:\xampp\htdocs\wordpress\wp-content\plugins\elementor\core\admin\feedback.php on line 8
+

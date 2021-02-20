@@ -1,0 +1,4 @@
+2021-01-27T08:50:22+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in C:\xampp\htdocs\wordpress\wp-includes\widgets\class-wp-widget-archives.php on line 17
+
+2021-01-27T08:51:06+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in C:\xampp\htdocs\wordpress\wp-admin\includes\post.php on line 20
+

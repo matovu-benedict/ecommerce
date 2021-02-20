@@ -1,0 +1,6 @@
+2021-02-08T05:20:09+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in C:\xampp\htdocs\wordpress\wp-content\plugins\wpforms-lite\src\Tasks\Tasks.php on line 12
+
+2021-02-08T05:20:46+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in C:\xampp\htdocs\wordpress\wp-content\plugins\elementor\includes\editor-templates\library-layout.php on line 2
+
+2021-02-08T06:45:04+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in C:\xampp\htdocs\wordpress\wp-content\plugins\woocommerce\packages\woocommerce-admin\src\API\Reports\Orders\Stats\DataStore.php on line 10
+
